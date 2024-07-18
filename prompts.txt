@@ -1,0 +1,57 @@
+Act as a mentor and create a cheat sheet for making better prompts on NLP Generative AIs like Perplexity.ai, chatgpt.com, microsoft copilot, and others. This cheat sheet is designed for people with low-level knowledge on computers. Use a simple and concise language. Write the cheat sheet in brazillian portuguese.
+
+{RULES}
+> Describe "act as" commands
+> Describe the 3Rs method (REGRAS, RESUMO, ROTEIRO)
+> Describe the FTAE technique
+> Describe the limitations of this technology
+> Show instructions in a step-bt-step model
+
+Forneça exemplos para a Técnica FTAE e 3Rs
+
+Explique o que são prompts
+
+raduzir para português brasileiro: 
+Good Prompts vs Bad Prompts
+Here, I have just demonstrated some examples of good vs bad prompts that can affect the quality of the response from any LLM like ChatGPT.
+
+Technology Inquiry:
+
+Bad Prompt: Tell me about EV?
+Good Prompt: What are some breakthroughs in electric car technology in the last two years?
+Business Insights:
+
+Bad Prompt: How do I increase sales?
+Good Prompt: What are some proven market entry strategies for a new tech product in a competitive market?
+Historical Analysis
+
+Bad Prompt: Tell me about history.
+Good Prompt: Could you analyze the economic impacts of the Treaty of Versailles following World War I?
+
+Traduzir:
+Best Practices to Use ChatGPT
+Here are some best practices and guidelines for effectively using LLM tools and ChatGPT and getting the best out of them:
+
+1. Be clear and specific: Clearly communicate your request or questions
+
+2. Start with Instructions: Tell the model how you want it to behave.
+
+3. Provide Context: Give the model relevant information about the topic.
+
+4. Use Complete Sentences. Frame your prompts to ensure the model understands.
+
+5. Use Previous Answers: Reference the model’s previous responses.
+
+6. Experiment and Iterate: Experiment with different phrasing or variations.
+
+7. Use Explicit Instructions: Clearly state your instructions in the prompt.
+
+8. Limit The Response length: Ask the model to provide specific key points.
+
+9. Refine and Review: Adjust your prompts for more accurate answers.
+
+10. Verify and Fast-check: Make sure the information is correct.
+
+Defina melhor a técnica 3Rs
+
+Sugerir 10 títulos apelativos e chamativos para este texto que orienta sobre o uso de Inteligência Artificial que será publicado em blogs e redes sociais
